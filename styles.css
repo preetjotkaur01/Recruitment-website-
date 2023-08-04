@@ -1,0 +1,185 @@
+.material-icons{
+    position:relative;
+    right: 5px;
+    top: 5px;
+}
+
+#glass{ background: rgba(255,255,255,0.35);
+    -webkit-backdrop-filter: blur(2px);
+    backdrop-filter: blur(2px);
+    border: 1px solid rgba(255,255,255,0.175);
+
+}
+:hover.login{
+    background-color: rgb(68, 89, 248);
+}
+.login{
+    width: 90px;
+    height: 40px;
+    border-radius: 15px;
+    border-style: none;
+}
+.navdon{
+    text-align: center;
+    background-color: #3E54AC;
+    height: 50px;
+    margin: 10px auto 0;
+    width: 99vw;
+    border-radius: 8px;
+  
+    
+}
+.text{
+    display: inline-block;
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    font-weight: bold;
+
+}
+
+
+.tech{
+    text-align: center;
+
+}
+.techHeading{
+    color: rgb(17, 17, 122);
+    text-shadow: 0 2px 3px rgb(215, 230, 17);
+    font-weight: bolder;
+    margin: 15px;
+}
+.techbtn1{
+    font-size: 15px;
+    border-radius: 37px;
+background: #f7f7f7;
+box-shadow:  20px 20px 35px #dcdcdc,
+             -20px -20px 35px #ffffff;
+             border-style: none;
+             margin: 8px 10px 0 0;
+             padding: 10px;
+   
+}
+
+.techbtn1:hover{
+        color:white;
+        background-color: rgb(238, 46, 46);
+}
+
+.techbtn2{
+    font-size: 15px;
+    border-radius: 37px;
+background: #f7f7f7;
+box-shadow:  20px 20px 35px #dcdcdc,
+             -20px -20px 35px #ffffff;
+             border-style: none;
+             margin: 8px 0 0 10px;
+             padding: 10px;
+
+}
+.techbtn2:hover{
+    color:white;
+    background-color: rgb(238, 46, 46);
+}
+
+.p-tech{
+    margin: 30px;
+    font-size: 25px;
+    font-weight: bold;
+
+}
+.slides{
+    border-radius: 8px;
+    width:90%;
+}
+.img{
+    background-color: rgba(255,255,255,0.6);
+    border-radius:50%;
+    width: 100px;
+    height:100px;
+    text-align: center;
+    padding:10px;
+    margin:10px;
+    
+  
+}
+.card{
+    max-width: 370px;
+    position: relative;
+    left:75px;
+    border-color: white;
+    align-items: center;
+    padding:10px;
+    margin-top: 15px;
+    background-image: linear-gradient(#FFEADD,#FCAEAE);
+    margin:15px;
+    border-radius:20%;
+}
+
+.card-group{
+    align-items: baseline;
+}
+.col-img{
+    background-color: rgba(255,255,255,0.6);
+    border-radius:50%;
+    width: 120px;
+    height:120px;
+    text-align: center;
+    margin-bottom:15px;
+   
+}
+.comp{
+    font-weight: bold;
+    text-align: center;
+    font-size: larger;
+    margin:20px;
+    margin-top: 35px;
+
+    
+}
+
+.techies{
+    text-align: center;
+    margin-top: 100px;
+} 
+.techies p{
+    font-size: 20px;
+    margin: 20px;
+}
+.techies button{
+    width: 90px;
+    height: 40px;
+    border-radius: 15px;
+    border-style: none;
+}
+:hover.tech-button{
+        background-color: rgb(68, 89, 248);
+        margin-bottom: 20px;
+}
+.footer{
+    width: 100%;
+    background-color: #7895CB;
+    margin-top:25px;
+    height:180px;
+    
+}
+.card-footer h3{
+    padding:15px;
+}
+.card-text{
+    font-size: 18px;
+    padding-top: 0px;
+    padding-left:15px;
+}
+i{
+    padding-left: 20px;
+    position: relative;
+    bottom:5px;
+    font-size: 20px;
+}
+.ending{
+    width: 100%;
+    height:40px;
+    background-color:#4A55A2;
+    text-align: center;
+    padding-top: 5px;
+}
